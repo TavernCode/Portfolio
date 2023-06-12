@@ -31,7 +31,7 @@ const Logo = () => {
             fontWeight="700"
             ml={3}
           >
-            Portofolio
+            Portfolio
           </Text>
         </LogoBox>
       </a>

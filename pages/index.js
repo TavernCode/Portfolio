@@ -102,7 +102,7 @@ const Page = () => {
           </BioSection>
           <BioSection>
             <BioYear>2022 to Present</BioYear>
-            Work as a freelance
+            Work as a Freelancer
           </BioSection>
         </Section>
         <Section delay={0.3}>
